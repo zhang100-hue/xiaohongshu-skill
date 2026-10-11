@@ -1,0 +1,18 @@
+{
+  "A": {
+    "name": "留一点空白漫画",
+    "xiaohongshu_id": null,
+    "theme": "简约治愈漫画",
+    "portfolio": "portfolios/comics",
+    "columns": ["情感", "人性", "哲理", "幽默", "警醒", "认知"],
+    "publish_mode": "human_review_then_manual_publish"
+  },
+  "B": {
+    "name": "栖光视觉档案",
+    "xiaohongshu_id": null,
+    "theme": "复杂排版模板与原创视觉设计",
+    "portfolio": "portfolios/visual-design",
+    "columns": ["简历", "PPT", "商业海报", "电商详情页", "商品广告页"],
+    "publish_mode": "human_review_then_manual_publish"
+  }
+}

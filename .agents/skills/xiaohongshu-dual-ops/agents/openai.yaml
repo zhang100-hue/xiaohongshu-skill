@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书双账号运营"
+  short_description: "漫画与视觉设计双账号的创作、归档和复盘"
+  default_prompt: "用 $xiaohongshu-dual-ops 为账号 A 和 B 规划本周选题，并分别给出可审核的首篇草稿。"
