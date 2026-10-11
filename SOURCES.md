@@ -2,7 +2,7 @@
 
 ## 用户仓库
 
-- [zhang100-hue/xiaohongshu-skill](https://github.com/zhang100-hue/xiaohongshu-skill)：GitHub 已认证连接显示仓库存在、public、默认分支 `main`、size 0；未发现现有内容或许可证。因此不能称为在其已有 Skill 上直接改写。本包是全新原创实现，等待落库。
+- [zhang100-hue/xiaohongshu-skill](https://github.com/zhang100-hue/xiaohongshu-skill)：本次开始核验时，GitHub 已认证连接显示仓库存在、public、默认分支 `main`、size 0；未发现既有内容或许可证。因此不能称为在其已有 Skill 上直接改写。本包是全新原创实现，本次任务已将其写入该仓库。
 
 ## 开源参考
 

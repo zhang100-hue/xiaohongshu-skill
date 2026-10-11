@@ -16,7 +16,7 @@
 
 1. 将本包作为工作目录打开。Codex 会从仓库/当前目录的 `.agents/skills` 发现 Skill；如未出现，重启 Codex。也可将技能文件夹复制到用户级 `$HOME/.agents/skills/`。不要仅把 ZIP 原样放进技能目录。参见 [OpenAI Skills 官方文档](https://learn.chatgpt.com/docs/build-skills)。
 2. 在聊天中输入：`用 $xiaohongshu-dual-ops 为 A 做 3 条漫画选题和首篇分镜`；B 可说：`用 $xiaohongshu-dual-ops 为 B 做一套可编辑简历案例的内容简报`。
-3. 填写 `config/accounts.json` 中真实账号 ID（仅在本地保存；公开仓库勿提交个人信息），提供过往笔记和后台数据。按制作卡审核图片、文字、版权与平台标识后，再由你手动发布。
+3. 保持 `config/accounts.json` 为公开示例；如需保存真实账号 ID，另建被 Git 忽略的 `config/accounts.local.json`。提供过往笔记和后台数据。按制作卡审核图片、文字、版权与平台标识后，再由你手动发布。
 4. 每件作品按作品集规则建目录、填权利清单和索引。每周分别复盘 A/B，真实链接和指标由你提供或授权读取。
 
 ## 后续建议开启的能力与权限
